@@ -1,0 +1,6 @@
+{
+  "name": "SmartPark",
+  "description": "Sistema de gestão de estacionamento com monitoramento de placas e relatórios em tempo real.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
